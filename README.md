@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Corey Paskewitz
 
-I'm a passionate **Software Engineer** with a background in **game development** and **full-stack web development**. I thrive on creating interactive and user-centered applications that solve real-world problems.
+I'm a **Software Engineer** with a background in **game development** and **full-stack web development**. I thrive on creating interactive and user-centered applications that solve real-world problems.
 
 - 👀 I’m interested in **full-stack development**, **game development**, and anything related to **innovative tech solutions**.
 - 🌱 I’m currently honing my skills in **Next.js**, **TypeScript**, and **NoSQL databases**.
