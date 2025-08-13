@@ -3,7 +3,7 @@
 I'm a **Software Engineer** with a background in **game development** and **full-stack web development**. I thrive on creating interactive and user-centered applications that solve real-world problems.
 
 - 👀 I’m interested in **full-stack development**, **game development**, and anything related to **innovative tech solutions**.
-- 🌱 I’m currently honing my skills in **Next.js**, **TypeScript**, and **NoSQL databases**.
+- 🌱 I’m currently learning **LLM engineering**.
 - 💼 Check out my projects on my [Portfolio Site](https://www.cpaskewitz.com/) to see some of my work.
 - 💬 Let’s collaborate on **React-based projects**, **open-source initiatives**, or **web apps** that make a difference!
 - 📫 You can reach me at: [corey.paskewitz@gmail.com](mailto:corey.paskewitz@gmail.com)
